@@ -1,0 +1,15 @@
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\bin\Debug\net8.0\Teste.exe
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\bin\Debug\net8.0\Teste.deps.json
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\bin\Debug\net8.0\Teste.dll
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\bin\Debug\net8.0\Teste.pdb
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\obj\Debug\net8.0\Teste.sourcelink.json
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\obj\Debug\net8.0\Teste.dll
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\obj\Debug\net8.0\refint\Teste.dll
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\obj\Debug\net8.0\Teste.pdb
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\xampp\htdocs\azure_asp.net_c.sharp_small_projects\balta.io\Teste\obj\Debug\net8.0\ref\Teste.dll
